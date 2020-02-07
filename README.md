@@ -2,5 +2,5 @@
 
 ## Webpack loaders
 
-* [`simple-nunjucks-loader`](/nunjucks-loader/)
-* [`fest-webpack-loader`](/fest-webpack-loader/)
+* [`simple-nunjucks-loader`](https://ogonkov.github.io/nunjucks-loader/)
+* [`fest-webpack-loader`](https://ogonkov.github.io/fest-webpack-loader/)
