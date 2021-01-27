@@ -3,3 +3,6 @@ plugins:
 
 theme: jekyll-theme-cayman
 google_analytics: UA-71730924-3
+
+webmaster_verifications:
+  yandex: 90490ce3b466660e
